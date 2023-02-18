@@ -1,0 +1,31 @@
+.section-category{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding-top: 28px;
+    padding-bottom: 60px;
+}
+.category{
+    display: flex;
+}
+.category__item{
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 21px;
+gap: 10px;
+
+width: 83px;
+height: 31px;
+
+border: 1px solid #4440F7;
+border-radius: 20px;
+color: #4440F7
+   
+
+font-size: 12px;
+line-height: 16px;
+text-align: center;
+}
